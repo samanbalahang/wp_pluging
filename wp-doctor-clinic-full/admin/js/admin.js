@@ -1,0 +1,1 @@
+(function($){$(function(){console.log('WDC admin ready');});})(jQuery);
